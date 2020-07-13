@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: date-facts-date-facts
+      function: main
+      title: date-facts
+      description: Facts about that date
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/f6f76612-e9f3-4e0b-8db2-ab1bfb4f72f0'
+  name: date-facts
