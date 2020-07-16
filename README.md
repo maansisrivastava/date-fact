@@ -1,6 +1,7 @@
 # Date Fact
+Test it here: https://datefact.atlassian.net/browse/DFA-1 (Access given to testing@devpost.com)
 
-This project contains a Forge app written in Javascript that gets a fact about that particular month and day and displays it in a JIRA issue panel. 
+This project contains a Forge app written in Javascript that gets a fact about that particular month and day and displays it in a JIRA issue panel.
 
 ## Requirements
 
